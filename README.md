@@ -8,16 +8,17 @@ HTML, CSS ve JavaScript kullanılarak geliştirilmiş, filmler ve diziler için 
 Duyarlı tasarımı ve kullanıcı dostu arayüzüyle öne çıkıyor.
 
 ## Ekran Görüntüleri
-![Ana Sayfa](
-)
+![Ana Sayfa](img/AnaEkran.jpg)
+
+![Görsel Açıklaması](img/Menu.jpg)
+
 
 ## Özellikler
 - Film ve dizi listesi
 - Modern ve şık tasarım
 - Responsive (mobil uyumlu)
 
-## Demo
-![Proje Demosu](./screenshots/demo.gif)
+
 
 ## Kurulum
 1. Bu repoyu klonlayın:
