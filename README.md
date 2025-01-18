@@ -18,8 +18,9 @@ Duyarlı tasarımı ve kullanıcı dostu arayüzüyle öne çıkıyor.
 - Modern ve şık tasarım
 - Responsive (mobil uyumlu)
 
-## Demo
-![Proje Demosu](https://sh-samflix-net.netlify.app/)
+## Live Demo
+Check out the live version of the project here: [SamFlix Live](https://sh-samflix-net.netlify.app/)
+
 
 ## Kurulum
 1. Bu repoyu klonlayın:
