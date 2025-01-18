@@ -23,4 +23,4 @@ Duyarlı tasarımı ve kullanıcı dostu arayüzüyle öne çıkıyor.
 ## Kurulum
 1. Bu repoyu klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adi/samflix.git
+   git clone https://github.com/SametBas1/FilmStream-Website.git
